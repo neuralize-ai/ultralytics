@@ -109,6 +109,20 @@ Benchmarks will attempt to run automatically on all possible export formats list
 
 See full `export` details in the [Export](../modes/export.md) page.
 
+## RunLocal Benchmarks
+
+<p align="center">
+  <br>
+  <iframe loading="lazy" width="1024" height="683" src="http://localhost:3000/embed/ultralytics-public/uploads/893a8d64eb02d28b1b3799098595d6cd/benchmark"
+    title="RunLocal AI Yolo11n mlpackage benchmarks" frameborder="0"
+    allow="clipboard-write; web-share"
+    allowfullscreen>
+  </iframe>
+  <br>
+</p>
+
+Benchmark on real devices with [RunLocal AI](https://edgemeter.runlocal.ai/ultralytics-public/pipelines).
+
 ## FAQ
 
 ### How do I benchmark my YOLO11 model's performance using Ultralytics?
